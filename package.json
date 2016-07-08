@@ -24,7 +24,7 @@
   }
 
 , "dependencies": {
-    "ntlm": "~0.1.1"
+    "ntlm": "github:magnusottosson/node-ntlm"
   }
 
 , "keywords": [
